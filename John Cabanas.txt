@@ -1,0 +1,15 @@
+Infinity Bank:
+225 Grand Dr.
+Name: John Cabanas
+Address: 1 Prime St.
+Phone: 516-944-1515
+Email: Jcabanas2000@gmail.com
+Account type: Checking
+Account number: 5522401
+Account opening date: 06-02-2020
+Type: Deposit
+Previous balance: $0.00
+Transaction: +$15.00
+New balance: $15.00
+Total transactions: 1
+Date: 07-02-2022 05:31 PM

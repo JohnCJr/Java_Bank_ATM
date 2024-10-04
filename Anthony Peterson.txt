@@ -1,0 +1,15 @@
+Infinity Bank:
+225 Grand Dr.
+Name: Anthony Peterson
+Address: 7 Central Blvd.
+Phone: 516-257-3030
+Email: PAnthony@gmail.com
+Account type: Savings
+Account number: 1124502
+Account opening date: 03-06-2005
+Type: Withdraw
+Previous balance: $3,500.00
+Transaction: -$456.00
+New balance: $3,044.00
+Total transactions: 1
+Date: 07-01-2022 06:35 PM

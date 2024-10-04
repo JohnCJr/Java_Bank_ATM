@@ -1,0 +1,15 @@
+Infinity Bank:
+225 Grand Dr.
+Name: Tom Hastings
+Address: 34 Fake St.
+Phone: 516-977-5990
+Email: THastings@gmail.com
+Account type: Savings
+Account number: 3784502
+Account opening date: 03-25-2008
+Type: Deposit
+Previous balance: $3,599.00
+Transaction: +$156.27
+New balance: $3,755.27
+Total transactions: 1
+Date: 07-01-2022 06:24 PM

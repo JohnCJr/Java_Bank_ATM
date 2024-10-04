@@ -1,0 +1,15 @@
+Infinity Bank:
+225 Grand Dr.
+Name: Ellen Green
+Address: 213 Oak St.
+Phone: 631-444-1717
+Email: Egreen@gmail.com
+Account type: Checking
+Account number: 8113701
+Account opening date: 02-23-2000
+Type: Withdraw
+Previous balance: $7,000.00
+Transaction: -$166.33
+New balance: $6,833.67
+Total transactions: 1
+Date: 07-01-2022 06:33 PM

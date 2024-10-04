@@ -1,0 +1,15 @@
+Infinity Bank:
+225 Grand Dr.
+Name: Bob Capri
+Address: 123 Fake St.
+Phone: 516-844-5990
+Email: BCapri@gmail.com
+Account type: Savings
+Account number: 3224502
+Account opening date: 05-20-2010
+Type: Deposit
+Previous balance: $804.41
+Transaction: +$100.00
+New balance: $904.41
+Total transactions: 1
+Date: 05-18-2024 01:52 PM
